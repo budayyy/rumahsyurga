@@ -1,0 +1,8 @@
+.btn-orange{background-color:#F96734;border-color:#F96734;color:#fff;border-radius: 0.5rem;}
+
+.btn-orange:hover{background-color:#d15224;border-color:#d15224;color:#fff}
+
+.image_upload > input{display:none;}
+.image_upload input[type=text]{width:auto;height:auto;}
+
+.border-abu{border-color:#b2b3b4!important}
